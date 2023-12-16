@@ -1,6 +1,6 @@
 # Biodata
-Nama : Aditiya Pratama Lubis
-NIM : 09011282328049
+Nama : Aditiya Pratama Lubis |
+NIM : 09011282328049 |
 Kelas : SK1A
 # Binary-Search
 Tugas Materi ProgKom
